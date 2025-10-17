@@ -1,0 +1,11 @@
+package String_Class_methods_5_1;
+
+public class QB_14 {
+
+	public static void main(String[]args){
+
+		String ch= "abc";
+		System.out.println(ch.replace('b','x'));
+		}
+}
+
