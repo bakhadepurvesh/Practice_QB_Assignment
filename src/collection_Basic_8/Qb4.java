@@ -1,4 +1,4 @@
-package list_and_set_Basic;
+package collection_Basic_8;
 
 import java.util.Arrays;
 import java.util.List;
