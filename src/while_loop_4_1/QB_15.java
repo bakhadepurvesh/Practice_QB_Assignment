@@ -1,4 +1,4 @@
-package while_loop_4_2;
+package while_loop_4_1;
 
 public class QB_15 {
 public static void main(String[]args) {

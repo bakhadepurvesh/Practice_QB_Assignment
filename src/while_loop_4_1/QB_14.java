@@ -1,4 +1,4 @@
-package while_loop_4_2;
+package while_loop_4_1;
 
 import java.util.Scanner;
 
